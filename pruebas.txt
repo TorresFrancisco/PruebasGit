@@ -1,2 +1,5 @@
 git log - historial de commits 
-se modifico
+git checkout (id) volver a un commmit antiguo
+git checkout main
+
+
