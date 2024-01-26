@@ -3,3 +3,4 @@ git checkout (id) volver a un commmit antiguo
 git checkout main
 
 
+cambios 2
